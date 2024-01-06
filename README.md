@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there
 
 <!--
 **k0l1ka/k0l1ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a MS student at Ecole polytechnique FR ![image](https://github.com/k0l1ka/k0l1ka/assets/40829256/6b80878c-93f1-4e79-b76d-95678c12b732)
+
+I am interested is solving sequence modelling problems for different data-types using ML.
