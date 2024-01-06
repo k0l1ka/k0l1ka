@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a MS student at Ecole polytechnique FR ![image](https://github.com/k0l1ka/k0l1ka/assets/40829256/84c2ffd9-9311-41a0-9336-513a1d6ef2b7)
+I am a MS student at Ecole polytechnique FR ![icons8-eiffel-tower-24](https://github.com/k0l1ka/k0l1ka/assets/40829256/d719c670-5017-43c0-8820-3f0fa6caafb1)
 
 
 My research interests are sequence modeling problems for different data types using ML.
